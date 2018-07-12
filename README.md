@@ -5,7 +5,7 @@ Write an interactive program for processing inventory information for a parts wa
  
 While the program is running, all parts information should be in the main memory for fast response.  You may assume that there will always be enough space in memory to do this.    
  
-# Specifications: 
+# Specifications
  
 For each part, you need to store its ID (an integer), a short text description, its price, and a count of how many of that part the warehouse currently has.  You are given two files Part.h and Part.cpp that hold the declarations and definitions for a simple Part class that holds just the ID, and the text description.  You can revise the files as needed for this assignment. 
  
